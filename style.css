@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+h1, p {
+    color: #777;
+    background: #ebebeb;
+    margin: 10px -5px 10px -5px;
+    padding: 18px
+}
+
+header, nav, section, aside, footer {
+    background: #ebebeb;
+    text-align: center;
+    padding: 30px;
+}
+
+header, nav {
+    margin: 10px 75px 10px 75px;
+}
+
+.container {
+    margin: 20px 75px 30px 75px;
+}
+
+#section {
+    float: left;
+    width: 419px;
+    height: 225px;
+    margin: 0px 8px 15px 0px;
+}
+
+#aside {
+    float: left;
+    width: 255px;
+    height: 225px;
+    margin: 0px 0px 15px 8px;
+}
+
+#sec2 {
+    background: #777;
+    color: white;
+    text-align: center;
+    margin: 10px -20px 10px -20px;
+    padding: 25px;
+}
+
+
+#footer {
+    clear: both;
+    margin: 30px 75px 10px 75px;
+}
+
+
+
